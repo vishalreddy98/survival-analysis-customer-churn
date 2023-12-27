@@ -31,15 +31,15 @@ Number of features - 21
 
 ### Methodology
 ## Non-Parametric Methods:
-- Kaplan Meier Curve
-- Log-Rank Tests
+  - Kaplan Meier Curve
+  - Log-Rank Tests
 
 ## Semi-Parametric Methods:
-- Cox Proportional Hazards Model
-- Penalized Cox Models
+  - Cox Proportional Hazards Model
+  - Penalized Cox Models
 
 ## Parametric Methods:
-- Accelerated Failure Time Model
+  - Accelerated Failure Time Model
 
 ## Machine Learning Techniques:
-- Random Survival Forests
+  - Random Survival Forests
