@@ -1,1 +1,1 @@
-# survival-analysis-customer-churn
+# Understanding Customer Churn with Survival Analysis
