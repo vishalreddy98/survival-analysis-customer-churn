@@ -13,7 +13,7 @@ methodologies used and its results. We combined the traditional survival analysi
 methods with the advanced survival analysis using machine learning techniques. In this
 study, we investigated the non-parametric, parametric, and semi-parametric methods to
 delineate the survival analysis algorithms and procedures. Different features in the data
-which lead to churn are interpreted. The work presents experimental approaches to
+that lead to churn are interpreted. The work presents experimental approaches to
 enumerate the significance of survival analysis.
 
 ### Dataset Description
@@ -28,3 +28,18 @@ canceled subscription with the company Churn = ’No’ - the customer has been 
 (or) lost track of the customer.
 Number of customers - 7043
 Number of features - 21
+
+### Methodology
+## Non-Parametric Methods:
+- Kaplan Meier Curve
+- Log-Rank Tests
+
+## Semi-Parametric Methods:
+- Cox Proportional Hazards Model
+- Penalized Cox Models
+
+## Parametric Methods:
+- Accelerated Failure Time Model
+
+## Machine Learning Techniques:
+- Random Survival Forests
